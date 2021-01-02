@@ -1,6 +1,4 @@
 [submodule "my-submodule"]
 	path = my-submodule
 	url = git@github.com:EiosH/my-submodule.git
-[submodule "package"]
-	path = package
-	url = git@github.com:EiosH/my-submodule.git
+
